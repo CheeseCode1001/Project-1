@@ -177,3 +177,13 @@
 }
 
 /* RESPONSIVE FAQ SECTION STOP */
+
+/* Responsie */
+@media screen and (max-width: 768px) {
+    .footer {
+        padding: 8% 3%;
+    }
+    .scroll-card {
+        width: 100%;
+    }
+}
